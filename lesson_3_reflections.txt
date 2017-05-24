@@ -16,4 +16,11 @@ features or versions without disrupting the production version.
 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
+
 You can compare the differences between your local copy and the last known state of the remote by using git diff.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborating without Git/GitHub could require emailing versions back and forth. Merging would be more complicated because none of it would be automated.
+
